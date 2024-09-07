@@ -6,8 +6,8 @@ I am a passionate full stack developer with a strong foundation in software engi
 
 ## Tech Stack
 
-- **Languages:** JavaScript (NodeJS), Go
-- **Backend:** Node.js, Express.js
+- **Languages:** JavaScript (NodeJS), Go, Python, Java
+- **Backend:** Node.js, Laravel, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frontend:** React, Angular, HandleBars 
 - **Other Skills:** HTML, CSS, Git, Docker, Blockchain

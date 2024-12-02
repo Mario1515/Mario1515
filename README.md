@@ -2,4 +2,4 @@
 
 ## About Me
 
-I am a passionate full stack developer with a strong foundation in software engineering and a keen interest in backend development.
+I am a passionate full stack developer with a strong foundation in software engineering and main interest in backend development.
